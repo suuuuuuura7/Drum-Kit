@@ -85,10 +85,6 @@ background-image: url('images/tom4.png');
   text-align: center;
   margin: 10px;
   background-color: white;
-  transition: 1ms ease;
-}
-.drum:hover {
-  transform: translateY(-3px);
-  cursor: pointer;
 
 }
+

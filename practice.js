@@ -6,5 +6,5 @@ function HouseKeeper(name, YearOfEcperiance,CleaningRepertoire){
 
 }
 
-var housekeeper1 = new HouseKeeper("mola",5,["bathroom","lobby"]);
+var housekeeper1 = new HouseKeeper("mola",5,["bathroom ","lobby"]);
 alert(housekeeper1.CleaningRepertoire);
