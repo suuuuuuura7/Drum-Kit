@@ -16,9 +16,9 @@ An interactive web-based drum kit built with vanilla HTML, CSS, and JavaScript. 
 
 -🎵 **Realistic Drum Sounds** - High-quality audio samples.
 
--💥 **Visual Feedback** - Buttons light up when pressed
+-💥 **Visual Feedback** - Buttons light up when pressed.
 
--📱 **Responsive Design** - Works on desktop and tablet devices
+-📱 **Responsive Design** - Works on desktop and tablet devices.
 
 -🎨 **Modern UI** - Clean, modern interface with smooth animations
 
