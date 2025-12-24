@@ -12,9 +12,9 @@ An interactive web-based drum kit built with vanilla HTML, CSS, and JavaScript. 
 
 -⌨️ **Keyboard Support** - Press keys (N, A, S, D, J, K, L, I) to play sounds.
 
--🖱️ **Mouse Click Support** - Click buttons to trigger drum sounds
+-🖱️ **Mouse Click Support** - Click buttons to trigger drum sounds.
 
--🎵 **Realistic Drum Sounds** - High-quality audio samples
+-🎵 **Realistic Drum Sounds** - High-quality audio samples.
 
 -💥 **Visual Feedback** - Buttons light up when pressed
 
