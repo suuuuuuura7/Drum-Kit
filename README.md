@@ -20,7 +20,7 @@ An interactive web-based drum kit built with vanilla HTML, CSS, and JavaScript. 
 
 -📱 **Responsive Design** - Works on desktop and tablet devices.
 
--🎨 **Modern UI** - Clean, modern interface with smooth animations
+-🎨 **Modern UI** - Clean, modern interface with smooth animations.
 
 
 
